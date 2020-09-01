@@ -1,0 +1,15 @@
+/home/bakhti4u/Desktop/darknet/Yolov4/darknet/build/darknet/x64/data/obj/0001.jpg
+/home/bakhti4u/Desktop/darknet/Yolov4/darknet/build/darknet/x64/data/obj/0002.jpg
+/home/bakhti4u/Desktop/darknet/Yolov4/darknet/build/darknet/x64/data/obj/0003.jpg
+/home/bakhti4u/Desktop/darknet/Yolov4/darknet/build/darknet/x64/data/obj/0004.jpg
+/home/bakhti4u/Desktop/darknet/Yolov4/darknet/build/darknet/x64/data/obj/0005.jpg
+/home/bakhti4u/Desktop/darknet/Yolov4/darknet/build/darknet/x64/data/obj/0006.jpg
+/home/bakhti4u/Desktop/darknet/Yolov4/darknet/build/darknet/x64/data/obj/0007.jpg
+/home/bakhti4u/Desktop/darknet/Yolov4/darknet/build/darknet/x64/data/obj/0008.jpg
+/home/bakhti4u/Desktop/darknet/Yolov4/darknet/build/darknet/x64/data/obj/0009.jpg
+/home/bakhti4u/Desktop/darknet/Yolov4/darknet/build/darknet/x64/data/obj/0010.jpg
+/home/bakhti4u/Desktop/darknet/Yolov4/darknet/build/darknet/x64/data/obj/0011.jpg
+/home/bakhti4u/Desktop/darknet/Yolov4/darknet/build/darknet/x64/data/obj/0012.jpg
+/home/bakhti4u/Desktop/darknet/Yolov4/darknet/build/darknet/x64/data/obj/0013.jpg
+/home/bakhti4u/Desktop/darknet/Yolov4/darknet/build/darknet/x64/data/obj/0014.jpg
+
